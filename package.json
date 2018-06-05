@@ -1,0 +1,25 @@
+{
+  "name": "jake",
+  "version": "1.0.0",
+  "description": "aaa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigortekids/npm.git"
+  },
+  "author": "Igones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pigortekids/npm/issues"
+  },
+  "homepage": "https://github.com/pigortekids/npm#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
